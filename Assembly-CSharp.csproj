@@ -63,7 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ProceduralCircle.cs" />
+    <Compile Include="Assets\Scripts\ProceduralCube.cs" />
     <Compile Include="Assets\Scripts\ProceduralTriangle.cs" />
+    <Compile Include="Assets\Scripts\QuadCube.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>F:/unity/ProceduralSolids/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
